@@ -9,3 +9,4 @@ class App < Sinatra::Base
 end
 
 #shotgun doesn't require to refresh
+#rackup requires refresh to display changes
