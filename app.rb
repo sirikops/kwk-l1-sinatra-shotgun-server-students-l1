@@ -7,3 +7,5 @@ class App < Sinatra::Base
   end
 
 end
+
+#shotgun doesn't require to refresh
